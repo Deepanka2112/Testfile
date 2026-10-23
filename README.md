@@ -1,3 +1,3 @@
 # Testfile
-## This is my Firt try on Github
+## This is my First try on Github
 
